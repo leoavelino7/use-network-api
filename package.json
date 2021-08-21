@@ -4,6 +4,11 @@
   "author": "leoavelino7",
   "version": "2.0.0",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leoavelino7/use-network-api.git"
+  },
+  "homepage": "https://github.com/leoavelino7/use-network-api.git#readme",
   "main": "dist/index.js",
   "module": "dist/indes.es.js",
   "engines": {
